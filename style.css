@@ -1,0 +1,36 @@
+
+body {
+	background: url('graphics/background.png');
+}
+
+.planet {
+	position: absolute;
+	background: url('graphics/planet.png');
+	background-size: cover;
+	width: 200px;
+	height: 200px;
+}
+
+.star {
+	position: absolute;
+	background: url('graphics/planet.png');
+	background-size: cover;
+	width: 100px;
+	height: 100px;
+}
+
+.ship {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+}
+
+.beetleship {
+	background: url('graphics/beetleship.png');
+	background-size: cover;
+}
+
+.rocketship {
+	background: url('graphics/rocketship.png');
+	background-size: cover;
+}
